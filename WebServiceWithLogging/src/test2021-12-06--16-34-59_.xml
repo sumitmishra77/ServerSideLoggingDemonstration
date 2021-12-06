@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<webserviceRequest>
+    <method>searchEmp</method>
+    <parameter>103</parameter>
+    <response>
+        <employee>
+            <ID>103</ID>
+            <name>Priti</name>
+            <title>HR</title>
+        </employee>
+    </response>
+</webserviceRequest>

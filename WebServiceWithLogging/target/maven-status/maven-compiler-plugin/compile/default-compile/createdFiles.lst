@@ -1,0 +1,7 @@
+my\model\Employee.class
+com\mycompany\webservicewithlogging\JAXRSConfiguration.class
+my\model\EmployeeXML.class
+my\services\EmpInfoImpl.class
+com\mycompany\webservicewithlogging\resources\JavaEE8Resource.class
+my\interfaces\IempInfo.class
+my\model\HrInfo.class
