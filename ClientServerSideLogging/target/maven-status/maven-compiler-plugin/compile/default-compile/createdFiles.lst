@@ -1,0 +1,16 @@
+my\interfaces\GetAllEmp.class
+com\mycompany\clientserversidelogging\JAXRSConfiguration.class
+com\mycompany\clientserversidelogging\resources\JavaEE8Resource.class
+my\interfaces\ObjectFactory.class
+my\interfaces\DeleteEmpResponse.class
+my\interfaces\SearchEmpResponse.class
+my\services\IempInfo.class
+my\interfaces\SearchEmp.class
+my\interfaces\GetAllEmpResponse.class
+my\services\EmpInfoImplService.class
+my\interfaces\Employee.class
+my\interfaces\package-info.class
+my\servlets\MySearchServlet.class
+my\servlets\MyDeleteServlet.class
+my\servlets\MyDisplayAllServlet.class
+my\interfaces\DeleteEmp.class
