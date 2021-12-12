@@ -32,7 +32,7 @@ import my.model.HrInfo;
  * @author mishr
  */
 @WebService(endpointInterface="my.interfaces.IempInfo")
-@HandlerChain(file = "EmpInfoImplService_handler.xml")
+
 public class EmpInfoImpl {
     
       
